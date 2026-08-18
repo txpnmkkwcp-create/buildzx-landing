@@ -1,0 +1,10 @@
+{
+  "name": "buildzx-landing",
+  "version": "1.0.0",
+  "description": "BuildZX landing page",
+  "main": "index.html",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
